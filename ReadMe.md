@@ -19,6 +19,7 @@ at https://github.com/M2Team/NanaBox. NanaBox is the reference and prototype
 virtualization platform for MinLin.
 
 - [x64, generic, as modularized as possible](config-x64-NanaBox)
+- [arm64, generic, as modularized as possible](config-arm64-NanaBox)
 
 ## Usage
 
@@ -35,3 +36,4 @@ Here is the list of referenced third-party Linux Kernel configurations.
 
 - VMware Photon OS
   - https://github.com/vmware/photon/blob/b12f4a30daa2a925ad0715553367dccaf1d5b666/SPECS/linux/config-esx_x86_64
+  - https://github.com/vmware/photon/blob/b12f4a30daa2a925ad0715553367dccaf1d5b666/SPECS/linux/config-esx_aarch64
