@@ -18,11 +18,11 @@ Remote Desktop ActiveX control and XAML Islands, project repository available
 at https://github.com/M2Team/NanaBox. NanaBox is the reference and prototype
 virtualization platform for MinLin.
 
-- [x64, generic, as modularized as possible](config-x64-NanaBox)
-- [x64, generic, make all modules builtin](config-x64-NanaBox.Single)
+- [x64, generic, as modularized as possible](MinLin/config-x64-NanaBox)
+- [x64, generic, make all modules builtin](MinLin/config-x64-NanaBox.Single)
 
-- [arm64, generic, as modularized as possible](config-arm64-NanaBox)
-- [arm64, generic, make all modules builtin](config-arm64-NanaBox.Single)
+- [arm64, generic, as modularized as possible](MinLin/config-arm64-NanaBox)
+- [arm64, generic, make all modules builtin](MinLin/config-arm64-NanaBox.Single)
 
 ## Usage
 
