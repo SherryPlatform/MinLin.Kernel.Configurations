@@ -29,9 +29,13 @@ virtualization platform for MinLin.
 
 - x64, generic, as modularized as possible
   `$ make KCONFIG_CONFIG=MinLin/config-x64-NanaBox`
+- x64, generic, make essential modules builtin
+  `$ make KCONFIG_CONFIG=MinLin/config-x64-NanaBox.Medium`
 - x64, generic, make all modules builtin
   `$ make KCONFIG_CONFIG=MinLin/config-x64-NanaBox.Single`
 - arm64, generic, as modularized as possible
   `$ make KCONFIG_CONFIG=MinLin/config-arm64-NanaBox`
+- arm64, generic, make essential modules builtin
+  `$ make KCONFIG_CONFIG=MinLin/config-arm64-NanaBox.Medium`
 - arm64, generic, make all modules builtin
   `$ make KCONFIG_CONFIG=MinLin/config-arm64-NanaBox.Single`
