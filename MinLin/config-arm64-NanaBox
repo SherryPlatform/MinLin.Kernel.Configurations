@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/arm64 6.6.8 Kernel Configuration
+# Linux/arm64 6.6.10 Kernel Configuration
 #
 CONFIG_CC_VERSION_TEXT="aarch64-suse-linux-gcc (SUSE Linux) 13.2.1 20231130 [revision 741743c028dc00f27b9c8b1d5211c1f602f2fddd]"
 CONFIG_CC_IS_GCC=y
